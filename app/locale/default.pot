@@ -1,0 +1,871 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from file: Revision: 7945 /app/webroot/test.php
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2009-09-15 15:53-0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /controllers/categories_controller.php:78
+msgid "Invalid Category."
+msgstr ""
+
+#: /controllers/categories_controller.php:119
+msgid "category has been edited"
+msgstr ""
+
+#: /controllers/categories_controller.php:133
+msgid "category-deleted"
+msgstr ""
+
+#: /controllers/categories_controller.php:167
+msgid "category-saved"
+msgstr ""
+
+#: /controllers/categories_controller.php:171
+msgid "image-4-category-not-saved"
+msgstr ""
+
+#: /controllers/categories_controller.php:175
+msgid "category-not-saved"
+msgstr ""
+
+#: /controllers/comments_controller.php:65
+msgid "comment-sent"
+msgstr ""
+
+#: /controllers/comments_controller.php:80
+#: /controllers/pcomments_controller.php:36
+msgid "comment-deleted"
+msgstr ""
+
+#: /controllers/friends_controller.php:154
+msgid "already-have-this-friend"
+msgstr ""
+
+#: /controllers/friends_controller.php:158
+msgid "friend-add"
+msgstr ""
+
+#: /controllers/friends_controller.php:173
+msgid "fried-deleted"
+msgstr ""
+
+#: /controllers/friends_controller.php:193
+msgid "not-friend-of-guy"
+msgstr ""
+
+#: /controllers/pcomments_controller.php:19
+msgid "comment-saved"
+msgstr ""
+
+#: /controllers/pcomments_controller.php:23;40
+msgid "comment-error"
+msgstr ""
+
+#: /controllers/places_controller.php:114
+msgid "Add new place to Pordoquier.com.ar"
+msgstr ""
+
+#: /controllers/places_controller.php:127;147
+msgid "place-saved"
+msgstr ""
+
+#: /controllers/places_controller.php:144;157
+msgid "place-not-saved"
+msgstr ""
+
+#: /controllers/places_controller.php:153
+msgid "image-4-place-not-saved"
+msgstr ""
+
+#: /controllers/places_controller.php:174
+msgid "place-not-found"
+msgstr ""
+
+#: /controllers/places_controller.php:181;237
+msgid " on Pordoquier.com.ar"
+msgstr ""
+
+#: /controllers/places_controller.php:220
+msgid "not-allowed-edit-place"
+msgstr ""
+
+#: /controllers/places_controller.php:229;322
+msgid "controllers-places-edit-success"
+msgstr ""
+
+#: /controllers/places_controller.php:232;326
+msgid "controllers-places-edit-failed"
+msgstr ""
+
+#: /controllers/places_controller.php:250
+msgid "not-allowed-delete-place"
+msgstr ""
+
+#: /controllers/places_controller.php:254
+msgid "place-deleted"
+msgstr ""
+
+#: /controllers/places_controller.php:268;306
+msgid "image-deleted-from-place"
+msgstr ""
+
+#: /controllers/places_controller.php:287
+msgid "places in Pordoquier"
+msgstr ""
+
+#: /controllers/users_controller.php:59
+#: /views/layouts/index.ctp:69
+#: /views/layouts/map.ctp:84
+#: /views/layouts/register.ctp:63
+msgid "Register"
+msgstr ""
+
+#: /controllers/users_controller.php:61
+msgid "already-logged"
+msgstr ""
+
+#: /controllers/users_controller.php:71
+msgid "user-created"
+msgstr ""
+
+#: /controllers/users_controller.php:83
+msgid "user-saved"
+msgstr ""
+
+#: /controllers/users_controller.php:88;139;197
+msgid "image-4-user-not-saved"
+msgstr ""
+
+#: /controllers/users_controller.php:92;142;200
+msgid "user-not-saved"
+msgstr ""
+
+#: /controllers/users_controller.php:95
+msgid "You have to agree to the terms and conditions"
+msgstr ""
+
+#: /controllers/users_controller.php:135;193
+msgid "user-information-edited"
+msgstr ""
+
+#: /controllers/users_controller.php:232
+msgid "user-deleted"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:1
+msgid "Add new Category"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:4
+msgid "parent"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:5
+#: /views/places/add.ctp:58
+msgid "name"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:6
+msgid "description"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:7
+#: /views/categories/admin_view.ctp:9;29
+msgid "Photo"
+msgstr ""
+
+#: /views/categories/admin_add.ctp:8
+#: /views/users/add.ctp:49
+msgid "Submit"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:4
+#: /views/categories/admin_view.ctp:38
+msgid "Edit Category"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:15
+#: /views/categories/admin_index.ctp:45
+#: /views/categories/admin_view.ctp:87
+#: /views/comments/index.ctp:49
+#: /views/friends/index.ctp:20
+#: /views/places/admin_index.ctp:23;30
+#: /views/places/edit.ctp:49
+#: /views/places/list_places.ctp:38
+#: /views/users/admin_index.ctp:31
+msgid "Delete"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:15
+#: /views/categories/admin_index.ctp:45
+#: /views/categories/admin_view.ctp:39;87
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:16
+#: /views/categories/admin_view.ctp:40
+msgid "List Categories"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:17
+#: /views/categories/admin_index.ctp:59
+#: /views/categories/admin_view.ctp:42
+msgid "List Places"
+msgstr ""
+
+#: /views/categories/admin_edit.ctp:18
+#: /views/categories/admin_index.ctp:60
+msgid "New Place"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:2
+#: /views/elements/category_list.ctp:2
+msgid "Categories"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:6
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:16
+#: /views/categories/admin_view.ctp:62
+#: /views/places/admin_index.ctp:11
+msgid "Actions"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:43
+#: /views/places/list_places.ctp:36
+#: /views/users/admin_index.ctp:29
+msgid "View"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:44
+#: /views/categories/admin_view.ctp:86
+#: /views/places/admin_index.ctp:29
+#: /views/places/list_places.ctp:37
+#: /views/users/admin_index.ctp:30
+msgid "Edit"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:51
+#: /views/users/admin_index.ctp:37
+msgid "previous"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:53
+#: /views/users/admin_index.ctp:39
+msgid "next"
+msgstr ""
+
+#: /views/categories/admin_index.ctp:58
+#: /views/categories/admin_view.ctp:41
+msgid "New Category"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:2
+#: /views/helpers/google_map.php:155;291
+#: /views/places/add.ctp:86
+#: /views/places/admin_index.ctp:8
+#: /views/places/edit.ctp:38
+msgid "Category"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:4;50
+#: /views/users/admin_index.ctp:5
+msgid "Id"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:14;51
+#: /views/layouts/map.ctp:44
+#: /views/places/admin_index.ctp:6
+#: /views/places/edit.ctp:22
+#: /views/places/search.ctp:4
+#: /views/users/add.ctp:6
+#: /views/users/admin_index.ctp:6
+#: /views/users/edit.ctp:49
+#: /views/users/view.ctp:47
+msgid "Name"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:19;53
+#: /views/comments/index.ctp:15
+#: /views/places/add.ctp:72
+msgid "Description"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:24
+msgid "Parent"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:39
+msgid "Delete Category"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:46
+msgid "Related Places"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:52
+#: /views/layouts/map.ctp:44
+#: /views/places/add.ctp:50;66
+#: /views/places/edit.ctp:26
+#: /views/places/search.ctp:5
+msgid "Address"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:54
+#: /views/places/add.ctp:78
+#: /views/places/edit.ctp:30
+msgid "Latitude"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:55
+#: /views/places/add.ctp:82
+#: /views/places/edit.ctp:34
+msgid "Longitude"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:56
+msgid "Zoom"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:57
+#: /views/layouts/map.ctp:44
+msgid "Tags"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:58
+msgid "Rating"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:59
+msgid "User Id"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:60
+msgid "Category Id"
+msgstr ""
+
+#: /views/categories/admin_view.ctp:61
+#: /views/places/admin_index.ctp:9
+msgid "Created"
+msgstr ""
+
+#: /views/comments/add.ctp:5
+msgid "Send"
+msgstr ""
+
+#: /views/comments/index.ctp:14
+msgid "From"
+msgstr ""
+
+#: /views/comments/index.ctp:49
+#: /views/places/list_places.ctp:38
+msgid "Are you sure?"
+msgstr ""
+
+#: /views/comments/index.ctp:57
+msgid "No new messages"
+msgstr ""
+
+#: /views/comments/index.ctp:60
+msgid "You have "
+msgstr ""
+
+#: /views/comments/index.ctp:60
+msgid " unread messages"
+msgstr ""
+
+#: /views/comments/view.ctp:7
+msgid "Reply"
+msgstr ""
+
+#: /views/comments/view.ctp:8
+msgid "Close"
+msgstr ""
+
+#: /views/elements/friend_notify.ctp:4
+msgid "Updates"
+msgstr ""
+
+#: /views/elements/friend_request.ctp:17
+msgid "friend requests"
+msgstr ""
+
+#: /views/elements/place_recommend.ctp:4
+msgid "Visit "
+msgstr ""
+
+#: /views/elements/place_recommend.ctp:4
+msgid "Click here"
+msgstr ""
+
+#: /views/elements/place_recommend.ctp:8
+msgid "Recommend"
+msgstr ""
+
+#: /views/elements/rating_add.ctp:11
+msgid "This Place has been rated. Thank U!"
+msgstr ""
+
+#: /views/elements/user_login.ctp:10
+msgid "remember_me"
+msgstr ""
+
+#: /views/elements/user_login.ctp:12
+msgid "close"
+msgstr ""
+
+#: /views/friends/index.ctp:11
+msgid "Your Friends are"
+msgstr ""
+
+#: /views/friends/index.ctp:17
+msgid "Comment"
+msgstr ""
+
+#: /views/friends/index.ctp:26
+msgid "Isn't it sad. You have no friends. Search for some"
+msgstr ""
+
+#: /views/friends/index.ctp:49
+msgid "Search for friends"
+msgstr ""
+
+#: /views/friends/notify.ctp:5
+msgid "has added"
+msgstr ""
+
+#: /views/friends/notify.ctp:5
+msgid "places"
+msgstr ""
+
+#: /views/friends/notify.ctp:11
+msgid "No updates"
+msgstr ""
+
+#: /views/friends/notify.ctp:16
+#: /views/layouts/map.ctp:50
+msgid "Clear"
+msgstr ""
+
+#: /views/friends/search.ctp:11
+#: /views/places/add.ctp:103
+msgid "Add"
+msgstr ""
+
+#: /views/friends/search.ctp:16
+msgid "No results"
+msgstr ""
+
+#: /views/friends/view.ctp:3
+msgid "Birthdate:"
+msgstr ""
+
+#: /views/friends/view.ctp:4
+msgid "Country:"
+msgstr ""
+
+#: /views/friends/view.ctp:5
+msgid "Email:"
+msgstr ""
+
+#: /views/friends/view.ctp:9
+#: /views/layouts/default.ctp:45
+#: /views/layouts/index.ctp:44
+#: /views/layouts/map.ctp:60
+#: /views/layouts/register.ctp:40
+msgid "Places"
+msgstr ""
+
+#: /views/helpers/google_map.php:90
+msgid "Clear results"
+msgstr ""
+
+#: /views/helpers/google_map.php:291
+#: /views/tags/view.ctp:18
+msgid "Submitted by"
+msgstr ""
+
+#: /views/layouts/default.ctp:47
+#: /views/layouts/index.ctp:46
+#: /views/layouts/map.ctp:62
+#: /views/layouts/register.ctp:42
+msgid "My Places"
+msgstr ""
+
+#: /views/layouts/default.ctp:48
+#: /views/layouts/index.ctp:47
+#: /views/layouts/map.ctp:63
+#: /views/layouts/register.ctp:43
+msgid "Add Places"
+msgstr ""
+
+#: /views/layouts/default.ctp:51
+#: /views/layouts/index.ctp:50
+#: /views/layouts/map.ctp:66
+#: /views/layouts/register.ctp:46
+msgid "Friends"
+msgstr ""
+
+#: /views/layouts/default.ctp:53
+#: /views/layouts/index.ctp:55
+#: /views/layouts/map.ctp:68
+#: /views/layouts/register.ctp:48
+msgid "Inbox"
+msgstr ""
+
+#: /views/layouts/default.ctp:54
+#: /views/layouts/map.ctp:69
+#: /views/layouts/register.ctp:49
+msgid "Profile"
+msgstr ""
+
+#: /views/layouts/default.ctp:55
+#: /views/layouts/index.ctp:56
+#: /views/layouts/map.ctp:70
+#: /views/layouts/register.ctp:50
+msgid "Language"
+msgstr ""
+
+#: /views/layouts/default.ctp:59
+#: /views/layouts/index.ctp:60
+#: /views/layouts/map.ctp:74
+#: /views/layouts/register.ctp:54
+msgid "Spanish"
+msgstr ""
+
+#: /views/layouts/default.ctp:60
+#: /views/layouts/index.ctp:61
+#: /views/layouts/map.ctp:75
+#: /views/layouts/register.ctp:55
+msgid "English"
+msgstr ""
+
+#: /views/layouts/default.ctp:89
+#: /views/layouts/map.ctp:106
+#: /views/pages/home.ctp:46
+msgid "The content displayed on this page of places, <br> maps and categories, is licensed under <br>"
+msgstr ""
+
+#: /views/layouts/index.ctp:52
+msgid "Add Friends"
+msgstr ""
+
+#: /views/pages/home.ctp:16
+msgid "is a collection of places submitted by users to users"
+msgstr ""
+
+#: /views/pages/home.ctp:17
+msgid "This info is showed on maps"
+msgstr ""
+
+#: /views/pages/home.ctp:25
+msgid "Last 5 places"
+msgstr ""
+
+#: /views/pages/home.ctp:36
+msgid "Enter now!"
+msgstr ""
+
+#: /views/places/add.ctp:49
+msgid "First, search for a place"
+msgstr ""
+
+#: /views/places/add.ctp:49
+msgid "Type in Address,City or Country (eg: Lamadrid 63, Mendoza, Argentina)"
+msgstr ""
+
+#: /views/places/add.ctp:52
+msgid "Search"
+msgstr ""
+
+#: /views/places/add.ctp:56
+msgid "Then, Add your place"
+msgstr ""
+
+#: /views/places/add.ctp:61
+msgid "only-alphabets-and-numbers-allowed"
+msgstr ""
+
+#: /views/places/add.ctp:62
+msgid "error-notEmpty-allowed"
+msgstr ""
+
+#: /views/places/add.ctp:68
+msgid "error-min-length-1"
+msgstr ""
+
+#: /views/places/add.ctp:74
+msgid "error-only-alphabets-and-numbers-allowed"
+msgstr ""
+
+#: /views/places/add.ctp:79;83
+msgid "error-not-empty-search-first"
+msgstr ""
+
+#: /views/places/add.ctp:91
+msgid "error-30-chars-max"
+msgstr ""
+
+#: /views/places/add.ctp:94
+msgid "Place Image"
+msgstr ""
+
+#: /views/places/add.ctp:95
+#: /views/users/add.ctp:42
+msgid "error-bad-format"
+msgstr ""
+
+#: /views/places/add.ctp:98
+msgid "Add another image"
+msgstr ""
+
+#: /views/places/admin_edit.ctp:16
+#: /views/places/edit.ctp:31;35
+msgid "not-empty-search-first"
+msgstr ""
+
+#: /views/places/admin_edit.ctp:20
+msgid "not-empty"
+msgstr ""
+
+#: /views/places/admin_index.ctp:2
+#: /views/users/admin_index.ctp:2
+msgid "Page %page% of %pages%, showing %current% of %count%"
+msgstr ""
+
+#: /views/places/admin_index.ctp:5
+msgid "ID"
+msgstr ""
+
+#: /views/places/admin_index.ctp:7
+msgid "Addres"
+msgstr ""
+
+#: /views/places/admin_index.ctp:10
+msgid "Photos"
+msgstr ""
+
+#: /views/places/edit.ctp:31;35
+msgid "Drag the marker to a new position to set new position"
+msgstr ""
+
+#: /views/places/edit.ctp:54
+msgid "Save new data"
+msgstr ""
+
+#: /views/places/list_places.ctp:21
+msgid "No places yet. "
+msgstr ""
+
+#: /views/places/list_places.ctp:21
+msgid "Add a new place"
+msgstr ""
+
+#: /views/places/search.ctp:13
+msgid "more.."
+msgstr ""
+
+#: /views/places/search.ctp:19
+msgid "No Results"
+msgstr ""
+
+#: /views/places/view.ctp:18
+msgid "Info about this place"
+msgstr ""
+
+#: /views/places/view.ctp:28
+msgid "Name:"
+msgstr ""
+
+#: /views/places/view.ctp:32
+msgid "Address:"
+msgstr ""
+
+#: /views/places/view.ctp:36
+msgid "Latitude:"
+msgstr ""
+
+#: /views/places/view.ctp:40
+msgid "Longitude:"
+msgstr ""
+
+#: /views/places/view.ctp:44
+msgid "Category:"
+msgstr ""
+
+#: /views/places/view.ctp:48
+#: /views/ratings/add.ctp:4
+msgid "Rating: "
+msgstr ""
+
+#: /views/places/view.ctp:64
+msgid "Add Rating"
+msgstr ""
+
+#: /views/places/view.ctp:72
+msgid "Share: "
+msgstr ""
+
+#: /views/places/view.ctp:74
+msgid "Recomend to a friend:"
+msgstr ""
+
+#: /views/places/view.ctp:80
+msgid "Comments"
+msgstr ""
+
+#: /views/places/view.ctp:82
+msgid "Add Comment"
+msgstr ""
+
+#: /views/places/view.ctp:101
+msgid "Written by :author on :date"
+msgstr ""
+
+#: /views/places/view.ctp:105
+msgid "No comments"
+msgstr ""
+
+#: /views/places/rss/index.ctp:6
+msgid "Last 10 places submitted"
+msgstr ""
+
+#: /views/ratings/add.ctp:9
+msgid "Select a value"
+msgstr ""
+
+#: /views/tags/view.ctp:11
+msgid "Places for "
+msgstr ""
+
+#: /views/users/add.ctp:7;11;29
+msgid "error-invalid-field"
+msgstr ""
+
+#: /views/users/add.ctp:10
+#: /views/users/admin_index.ctp:7
+#: /views/users/edit.ctp:53
+#: /views/users/view.ctp:51
+msgid "Lastname"
+msgstr ""
+
+#: /views/users/add.ctp:14
+#: /views/users/admin_index.ctp:8
+#: /views/users/edit.ctp:57
+#: /views/users/view.ctp:55
+msgid "Birthdate"
+msgstr ""
+
+#: /views/users/add.ctp:18
+#: /views/users/admin_index.ctp:9
+#: /views/users/edit.ctp:61
+#: /views/users/view.ctp:59
+msgid "Country"
+msgstr ""
+
+#: /views/users/add.ctp:22
+#: /views/users/edit.ctp:65
+#: /views/users/view.ctp:63
+msgid "Email"
+msgstr ""
+
+#: /views/users/add.ctp:23
+msgid "error-invalid-email"
+msgstr ""
+
+#: /views/users/add.ctp:26
+#: /views/users/edit.ctp:69
+#: /views/users/login.ctp:11
+#: /views/users/view.ctp:67
+msgid "Username"
+msgstr ""
+
+#: /views/users/add.ctp:28
+msgid "error-username-taken"
+msgstr ""
+
+#: /views/users/add.ctp:33
+#: /views/users/edit.ctp:73
+#: /views/users/login.ctp:15
+msgid "Password"
+msgstr ""
+
+#: /views/users/add.ctp:37
+msgid "Confirm Password"
+msgstr ""
+
+#: /views/users/add.ctp:41
+msgid "Profile Image"
+msgstr ""
+
+#: /views/users/add.ctp:44
+msgid "Terms and conditions"
+msgstr ""
+
+#: /views/users/add.ctp:44
+msgid "I accept"
+msgstr ""
+
+#: /views/users/admin_change_pass.ctp:4
+#: /views/users/edit.ctp:77
+msgid "Password Confirm"
+msgstr ""
+
+#: /views/users/admin_change_pass.ctp:5
+msgid "Change Password"
+msgstr ""
+
+#: /views/users/admin_edit.ctp:39
+msgid "user-pic"
+msgstr ""
+
+#: /views/users/admin_index.ctp:12
+msgid "Image path"
+msgstr ""
+
+#: /views/users/admin_index.ctp:14
+msgid "Last login"
+msgstr ""
+
+#: /views/users/edit.ctp:17
+#: /views/users/view.ctp:16
+msgid "Your photo"
+msgstr ""
+
+#: /views/users/edit.ctp:46
+msgid "Edit your profile"
+msgstr ""
+
+#: /views/users/edit.ctp:81
+msgid "Change your profile image"
+msgstr ""
+
+#: /views/users/edit.ctp:85
+msgid "Save"
+msgstr ""
+
+#: /views/users/view.ctp:44
+msgid "Your profile info"
+msgstr ""
+
+#: /views/users/view.ctp:70
+msgid "Edit Profile"
+msgstr ""
+
+#: /webroot/test.php:99
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

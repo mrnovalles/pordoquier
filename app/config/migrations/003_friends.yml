@@ -1,0 +1,18 @@
+UP:
+	create_table:
+		friends:
+			id:
+				type: integer
+				length: 10
+			user_id:
+				type: integer
+				length: 10
+			friend_id:
+				type: integer
+				length: 10
+			status:
+				type:integer
+				length: 11
+
+DOWN:
+	drop_table: friends

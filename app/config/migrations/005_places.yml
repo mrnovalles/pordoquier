@@ -1,0 +1,38 @@
+UP:
+	create_table:
+		places:
+			id:
+				type: integer
+				length: 10
+			name:
+				type: text
+				length: 60
+			address:
+				type: text
+				length: 255			
+			description:
+				type: text
+				length: 255
+			latitude:
+				type: float
+			longitude:
+				type: float
+			zoom:
+				type: integer
+				length: 11
+			tags:
+				type:text
+				length: 255
+			rating:
+				type: float
+			user_id:
+				type: integer
+				length: 10
+			category_id:
+				type: integer
+				length: 10
+
+DOWN:
+	drop_table: places
+
+

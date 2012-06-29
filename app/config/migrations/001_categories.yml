@@ -1,0 +1,21 @@
+UP:
+	create_table:
+		categories:
+			id:
+				type: integer
+				length: 10
+			name:
+				type: text
+				length: 60
+			description:
+				type: text
+				length: 255
+			parent:
+				type: integer
+				length: 10
+			photo:
+				type:text
+				length: 60
+
+DOWN:
+	drop_table: categories

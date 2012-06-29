@@ -1,0 +1,33 @@
+UP:
+	create_table:
+		users:
+			id:
+				type: integer
+				length: 10
+			name:
+				type: text
+				length: 60
+			lastname:
+				type: text
+				length: 60
+			birthdate:
+				type:date
+			country:
+				type: text
+				length: 60
+			email:
+				type: text
+				length: 60
+			username:
+				type: text
+				length: 60
+			password:
+				type: text
+				length: 40
+			last_login:
+				type: date
+			group_id:
+				type: integer
+				length: 10
+DOWN:
+	drop_table: users

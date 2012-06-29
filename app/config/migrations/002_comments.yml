@@ -1,0 +1,21 @@
+UP:
+	create_table:
+		comments:
+			id:
+				type: integer
+				length: 10
+			comment:
+				type: text
+				length: 255
+			user_id:
+				type: integer
+				length: 10
+			id_2user:
+				type: integer
+				length: 10
+			readd:
+				type:integer
+				length: 10
+
+DOWN:
+	drop_table: comments

@@ -1,0 +1,18 @@
+UP:
+	create_table:
+		pcomments:
+			id:
+				type: integer
+				length: 10
+			comment:
+				type: text
+				length: 60
+			place_id:
+				type: integer
+				length: 10
+			user_id:
+				type: integer
+				length: 10
+
+DOWN:
+	drop_table: pcomments

@@ -1,0 +1,12 @@
+UP:
+	create_table:
+		tags:
+			id:
+				type: integer
+				length: 10
+			tag:
+				type: text
+				length: 60
+
+DOWN:
+	drop_table: tags

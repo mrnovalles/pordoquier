@@ -1,0 +1,12 @@
+UP:
+	create_table:
+		places_tags:
+			tag_id:
+				type: integer
+				length: 10
+			place_id:
+				type: integer
+				length: 10
+
+DOWN:
+	drop_table: places_tags
